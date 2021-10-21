@@ -4,7 +4,7 @@ from twarc import Twarc2, expansions
 from configparser import ConfigParser
 
 # CHANGE THIS TO YOUR TWARC CONFIG
-TWARC_CONFIG_FILE = "/Users/w504327/Library/Application Support/twarc/config"
+TWARC_CONFIG_FILE = "<path_to_tawarc_config>"
 OUTPUT_FILE = "../OutputFiles/tweets.jsonl"  # line-oriented JSON
 MAX_TWEETS = 100
 
